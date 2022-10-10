@@ -1,6 +1,6 @@
 Hi there,
 
-I am a postdoc in economics at the University of Bonn.
+I am a postdoc in economics at the Institute for Macroeconomics and Econometrics at the University of Bonn.
 
 I'm interested in all the stuff that involves challenging quantitative work and deep nerdery.
 
